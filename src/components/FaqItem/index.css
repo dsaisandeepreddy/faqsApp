@@ -1,0 +1,13 @@
+/* Write your code here. */
+
+.border-data {
+  border-style: double;
+  border-color: #d7dae6;
+  border-width: 2px;
+  width: 800px;
+  margin: 10px;
+}
+
+.heading-partsize {
+  font-size: 20px;
+}
